@@ -40,4 +40,9 @@ public class Carta {
         pnl.add(lbl);
     }
 
+    public int getIndice() {
+        return this.indice;
+    };
+
+
 }
